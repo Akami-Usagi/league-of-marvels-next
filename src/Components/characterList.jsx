@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect, useState } from 'react';
 import { getCharacters } from '../api';
 import CharacterCard from "./characterCard";
