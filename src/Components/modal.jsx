@@ -62,7 +62,7 @@ const CustomModal = ({ isOpen, onClose, modalData }) => {
         onRequestClose={onClose}
         contentLabel="Example Modal"
         ariaHideApp={false}
-        style={{overlay: {backgroundColor: "rgba(0,0,0,0.75)"}}}
+        style={{overlay: {backgroundColor: "rgba(0,0,0,0.75)", zIndex: 1000}}}
         >
             <div>
                 <ModalImg src={modalData.imagen} alt={modalData.nombre} />
