@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="121px" height="91px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 121 90.84"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#111111;stroke-width:3.12;stroke-miterlimit:22.9256}
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="60.43" y1="76.81" x2="61.15" y2="11.62">
+   <stop offset="0" style="stop-opacity:1; stop-color:#31969D"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#65E6F4"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#24AEBD"/>
+   <stop offset="0.988235" style="stop-opacity:1; stop-color:#1299A8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1299A8"/>
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="0,76.24 13.34,15.66 121,15.66 107.8,76.24 "/>
+ </g>
+</svg>

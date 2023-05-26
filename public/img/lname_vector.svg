@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="295px" height="170px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 295 169.71"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+    .fil2 {fill:url(#id1);fill-rule:nonzero}
+    .fil1 {fill:url(#id2);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="70.81" y1="147.5" x2="108.65" y2="166.41">
+   <stop offset="0" style="stop-opacity:1; stop-color:#95753E"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#C8A765"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#D5B36D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9C7D42"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="158.99" y1="15.63" x2="158.99" y2="167">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="218.71" y1="-5.58" x2="218.71" y2="117.41">
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2831149313904">
+   <polygon class="fil0" points="154.37,161.69 -0.28,161.69 -0.28,166.53 159.15,166.53 159.24,154.39 154.42,154.39 "/>
+   <path class="fil1" d="M286.24 0.02c-71.1,0 -129.4,55.78 -133.75,125.92l4.83 0c4.34,-67.48 60.48,-121.08 128.92,-121.08l7.72 0 0 -4.84 -7.72 0z"/>
+   <path class="fil2" d="M49.5 169.72l-19.68 -0.54 29.47 -30.91 116.41 0c1.33,-60 47.2,-108.87 104.76,-112.6l0 -7.65 14.26 0 0 22.17 -7.13 0c-53.85,0 -97.63,45.19 -97.63,100.78 0,1.48 0.05,2.95 0.09,4.37l0.34 7.65 -125.11 0 -15.78 16.68 0 0.05z"/>
+  </g>
+ </g>
+</svg>
