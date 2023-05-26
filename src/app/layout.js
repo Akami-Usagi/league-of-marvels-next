@@ -1,11 +1,5 @@
-"use client"
 import './globals.css'
 import { Inter } from 'next/font/google'
-import styled from 'styled-components'
-
-const Body = styled.body`
-  margin: initial;
-`
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Body className={inter.className}>{children}</Body>
+      <body className={inter.className} style={{margin: "initial"}}>{children}</body>
     </html>
   )
 }
